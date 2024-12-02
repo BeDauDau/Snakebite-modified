@@ -24,3 +24,6 @@ Modified for 693zz bearing
 | | M3 Square Nut | 2 | |
 | | M3 Heatset Insert | 5 | Two are optional |
 | | M3x20 Threaded Standoff | 2 | Optional
+
+#Original Design
+https://github.dev/Armchair-Heavy-Industries/Armchair-Usermods/tree/main/files/Archetype/Snakebite_Extruder-Shepherd_Mod
